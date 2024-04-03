@@ -1,1 +1,1 @@
-This Repository contains solutions to Higher Level programming tasks
+This direectory contains solutions to python exceptions tasks
